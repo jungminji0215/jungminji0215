@@ -1,5 +1,5 @@
 ### Hi there 😊
-안녕하세요 백엔드 개발자를 꿈꾸는 취준생 입니다!
+안녕하세요 백엔드 개발자 준비중 입니다!
 <br>
 <br>
 - 🌱 I’m currently learning Spring Framework
