@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-6DB33F?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/></a>
