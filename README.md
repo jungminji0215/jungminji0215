@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😊
 
 <!--
 **jungminji0215/jungminji0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
