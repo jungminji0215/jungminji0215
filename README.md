@@ -1,5 +1,4 @@
-### Hi there 😊
-안녕하세요 백엔드 공부합니다!
+안녕하세요 😋
 <br>
 <br>
 - 🌱 I’m currently learning Spring Framework
@@ -15,6 +14,27 @@
 <br>
 <br>
 <br>
+
+## 🛠  Stacks
+### Back-End
+
+- Spring Framework
+
+### Front-End
+
+- HTML5, CSS3, JS
+
+### DevOps
+
+- MariaDB
+
+### Collaboration & Tools
+
+- Eclipse
+- Git, github
+<br><br>
+## 🏅 Certificate
+- 정보처리기사 (2021.08.20)
 
 
 
