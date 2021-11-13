@@ -1,4 +1,4 @@
-안녕하세요 😋
+안녕하세요 😋 백엔드 공부해요.
 <br>
 <br>
 - 🌱 I’m currently learning Spring Framework
