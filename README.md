@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F7CAC9&height=300&section=header&text=Hi%20there%20🤗&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=300&section=header&text=Hi%20there%20🤗&fontSize=80)
 
 <br>
 
+<h2 align="center">👩 About Me</h2>
 <p align ="center">
 🌱 I’m currently learning Spring Framework
 <br>
