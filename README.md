@@ -21,9 +21,9 @@
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-
 <p/>
 
+<!--
 <br>
 
 <h2 align="center">🏅 Certificate</h2>
@@ -33,7 +33,7 @@
 
 <br>
 
-<!--
+
 **jungminji0215/jungminji0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
