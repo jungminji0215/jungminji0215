@@ -5,7 +5,7 @@
 <h2 align="center">👩 About Me</h2>
 <p align ="center">
   Spring Boot, Kotlin으로 API 개발 경험이 있습니다. <br>
-  현재 개인 프로젝트로 👉🏻 https://github.com/jungminji0215/review-app 👈🏻 API 개발 연습을 하고있습니다.
+  (23년 1월 기준) 현재 개인 프로젝트로 👉🏻 https://github.com/jungminji0215/review-app 👈🏻 API 개발 연습을 하고있습니다.
 <br>
 📫 How to reach me : sksmswjawl@naver.com / wjdalswl0215@gmail.com
 <p/>
