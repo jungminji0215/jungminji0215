@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=300&section=header&text=Hi%20there%20🤗&fontSize=80)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=300&section=header&text=Hi%20there%20🤗&fontSize=80) -->
 
 <br>
 
 <h2 align="center">👩 About Me</h2>
 <p align ="center">
-🌱 I’m currently learning Spring Framework
+  Spring Boot, Kotlin으로 API 개발 경험이 있습니다. <br>
+  현재 개인 프로젝트로 https://github.com/jungminji0215/review-appAPI 개발 연습을 하고있습니다.
 <br>
 📫 How to reach me : sksmswjawl@naver.com / wjdalswl0215@gmail.com
 <p/>
