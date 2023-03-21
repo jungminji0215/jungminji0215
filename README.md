@@ -4,7 +4,8 @@
 
 <h2 align="center">👩 About Me</h2>
 <p align ="center">
-  Spring Boot, Kotlin으로 API 개발 경험이 있습니다. <br>
+<!--   Spring Boot, Kotlin으로 API 개발 경험이 있습니다. <br> -->
+  
 <br>
 📫 How to reach me : sksmswjawl@naver.com / wjdalswl0215@gmail.com
 <p/>
