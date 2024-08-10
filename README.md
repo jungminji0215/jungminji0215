@@ -12,6 +12,7 @@
 
 <br>
 
+<!--
 <h2 align="center">🛠  Stacks</h2>
 <p align ="center">
 <a><img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -24,6 +25,7 @@
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <p/>
+-->
 
 <!--
 <br>
