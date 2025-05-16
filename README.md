@@ -2,12 +2,13 @@
 
 <br>
 
-<h2 align="center">👩 About Me</h2>
+<h2 align="center">안녕하세요.🐤</h2>
 <p align ="center">
 <!--   Spring Boot, Kotlin으로 API 개발 경험이 있습니다. <br> -->
-  
-<br>
-📫 How to reach me : sksmswjawl@naver.com / wjdalswl0215@gmail.com
+  프론트엔드 개발자 정민지입니다. 
+  코딩이 재밌어요. 👾
+<br><br>
+📫 How to reach me : wjdalswl0215@gmail.com
 <p/>
 
 <br>
